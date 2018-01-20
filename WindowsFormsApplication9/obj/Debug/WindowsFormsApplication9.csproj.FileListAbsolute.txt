@@ -1,0 +1,18 @@
+c:\users\musa\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+c:\users\musa\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+c:\users\musa\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+c:\users\musa\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+c:\users\musa\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+c:\users\musa\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+c:\users\musa\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+c:\users\musa\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Musa\Documents\visual studio 2013\Projects\serial port\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Musa\Documents\visual studio 2013\Projects\serial port\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Musa\Documents\visual studio 2013\Projects\serial port\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Musa\Documents\visual studio 2013\Projects\serial port\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\Musa\Documents\visual studio 2013\Projects\serial port\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\Musa\Documents\visual studio 2013\Projects\serial port\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Musa\Documents\visual studio 2013\Projects\serial port\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\Musa\Documents\visual studio 2013\Projects\serial port\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.CoreCompileInputs.cache
+C:\Users\Musa\Documents\visual studio 2013\Projects\serial port\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Musa\Documents\visual studio 2013\Projects\serial port\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
