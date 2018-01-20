@@ -32,7 +32,7 @@ namespace WindowsFormsApplication9
             }
 
             comboBox1.SelectedIndex = 1;
-            richTextBox2.Text = DateTime.Now + ":    " + "Program started";
+            richTextBox2.Text = DateTime.Now + ":    " + "Program started" + Environment.NewLine;
             checkBox_time.Checked = true;
         }
 
@@ -77,7 +77,7 @@ namespace WindowsFormsApplication9
             SerialPort sp = (SerialPort)sender;
             string buffer = sp.ReadExisting();
 
-
+            blink();
             
             if (checkBox_time.Checked)
             {
@@ -87,6 +87,17 @@ namespace WindowsFormsApplication9
             {
                 richTextBox2.Text += buffer + Environment.NewLine;
             }
+        }
+
+
+        private void blink()
+        {
+            Task.Run(() =>
+            {
+                button_color.BackColor = Color.Green;
+                System.Threading.Thread.Sleep(100);
+                button_color.BackColor = Color.Transparent;
+            });
         }
     }
 }

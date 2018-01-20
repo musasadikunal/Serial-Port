@@ -49,6 +49,7 @@
             this.richTextBox2 = new System.Windows.Forms.RichTextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.checkBox_time = new System.Windows.Forms.CheckBox();
+            this.button_color = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -255,11 +256,20 @@
             this.checkBox_time.Text = "Time";
             this.checkBox_time.UseVisualStyleBackColor = true;
             // 
+            // button_color
+            // 
+            this.button_color.Location = new System.Drawing.Point(286, 229);
+            this.button_color.Name = "button_color";
+            this.button_color.Size = new System.Drawing.Size(22, 14);
+            this.button_color.TabIndex = 21;
+            this.button_color.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(547, 261);
+            this.Controls.Add(this.button_color);
             this.Controls.Add(this.checkBox_time);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.richTextBox2);
@@ -297,6 +307,7 @@
         private System.Windows.Forms.RichTextBox richTextBox2;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.CheckBox checkBox_time;
+        private System.Windows.Forms.Button button_color;
     }
 }
 
